@@ -1,0 +1,5 @@
+#!/bin/ksh
+
+
+javac CompsMain.java CompsPriorityQueue.java FileIO.java Node.java
+
